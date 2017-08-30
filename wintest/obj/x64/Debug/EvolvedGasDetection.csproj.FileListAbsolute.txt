@@ -1,0 +1,31 @@
+F:\code\echarts ver\wintest\bin\x64\Debug\wintest.exe.config
+F:\code\echarts ver\wintest\bin\x64\Debug\wintest.exe
+F:\code\echarts ver\wintest\bin\x64\Debug\wintest.pdb
+F:\code\echarts ver\wintest\bin\x64\Debug\CefSharp.Core.dll
+F:\code\echarts ver\wintest\bin\x64\Debug\CefSharp.dll
+F:\code\echarts ver\wintest\bin\x64\Debug\CefSharp.WinForms.dll
+F:\code\echarts ver\wintest\bin\x64\Debug\System.dll
+F:\code\echarts ver\wintest\bin\x64\Debug\CefSharp.WinForms.xml
+F:\code\echarts ver\wintest\bin\x64\Debug\CefSharp.xml
+F:\code\echarts ver\wintest\bin\x64\Debug\CefSharp.Core.xml
+F:\code\echarts ver\wintest\bin\x64\Debug\zh-CHS\System.resources.dll
+F:\code\echarts ver\wintest\obj\x64\Debug\wintest.Form1.resources
+F:\code\echarts ver\wintest\obj\x64\Debug\wintest.Properties.Resources.resources
+F:\code\echarts ver\wintest\obj\x64\Debug\EvolvedGasDetection.csproj.GenerateResource.Cache
+F:\code\echarts ver\wintest\obj\x64\Debug\wintest.exe
+F:\code\echarts ver\wintest\obj\x64\Debug\wintest.pdb
+F:\code\demo echarts\echarts ver\wintest\bin\x64\Debug\wintest.exe.config
+F:\code\demo echarts\echarts ver\wintest\bin\x64\Debug\wintest.exe
+F:\code\demo echarts\echarts ver\wintest\bin\x64\Debug\wintest.pdb
+F:\code\demo echarts\echarts ver\wintest\bin\x64\Debug\CefSharp.Core.dll
+F:\code\demo echarts\echarts ver\wintest\bin\x64\Debug\CefSharp.dll
+F:\code\demo echarts\echarts ver\wintest\bin\x64\Debug\CefSharp.WinForms.dll
+F:\code\demo echarts\echarts ver\wintest\bin\x64\Debug\CefSharp.WinForms.xml
+F:\code\demo echarts\echarts ver\wintest\bin\x64\Debug\CefSharp.xml
+F:\code\demo echarts\echarts ver\wintest\bin\x64\Debug\CefSharp.Core.xml
+F:\code\demo echarts\echarts ver\wintest\obj\x64\Debug\EvolvedGasDetection.csprojResolveAssemblyReference.cache
+F:\code\demo echarts\echarts ver\wintest\obj\x64\Debug\wintest.Form1.resources
+F:\code\demo echarts\echarts ver\wintest\obj\x64\Debug\wintest.Properties.Resources.resources
+F:\code\demo echarts\echarts ver\wintest\obj\x64\Debug\EvolvedGasDetection.csproj.GenerateResource.Cache
+F:\code\demo echarts\echarts ver\wintest\obj\x64\Debug\wintest.exe
+F:\code\demo echarts\echarts ver\wintest\obj\x64\Debug\wintest.pdb

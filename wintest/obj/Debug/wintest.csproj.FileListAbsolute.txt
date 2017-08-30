@@ -1,0 +1,9 @@
+F:\code\echarts ver\wintest\obj\Debug\wintest.Properties.Resources.resources
+F:\code\echarts ver\wintest\obj\Debug\wintest.csproj.GenerateResource.Cache
+F:\code\echarts ver\wintest\bin\Debug\wintest.exe.config
+F:\code\echarts ver\wintest\bin\Debug\wintest.exe
+F:\code\echarts ver\wintest\bin\Debug\wintest.pdb
+F:\code\echarts ver\wintest\obj\Debug\wintest.exe
+F:\code\echarts ver\wintest\obj\Debug\wintest.pdb
+F:\code\echarts ver\wintest\obj\Debug\wintest.Form1.resources
+F:\code\echarts ver\wintest\obj\Debug\wintest.csprojResolveAssemblyReference.cache
