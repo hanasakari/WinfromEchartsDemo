@@ -12,10 +12,7 @@ using CefSharp.WinForms;
 using System.Threading;
 
 namespace wintest
-{
-    [PermissionSet(SecurityAction.Demand, Name = "FullTrust")]
-    [System.Runtime.InteropServices.ComVisibleAttribute(true)]
-    
+{    
     public partial class Form1 : Form
     {
         public Form1()
@@ -29,12 +26,12 @@ namespace wintest
         {
             CefSettings setting = new CefSettings();
             setting.Locale = "UTF-8";
-            string path = AppDomain.CurrentDomain.BaseDirectory + "\\chartPage.html";
+            string path = AppDomain.CurrentDomain.BaseDirectory + "\\static\\chartPage.html";
             path = "file://" + path.Replace("\\", "/");
             Cef.Initialize(setting);
             browser = new ChromiumWebBrowser(path);
             this.Controls.Add(browser);
-            browser.Dock = DockStyle.Fill;
+            browser.Dock = DockStyle.Fill; //满窗体
             //注册js对象
             browser.RegisterJsObject("rtn", new GetJson());
         }
@@ -42,11 +39,14 @@ namespace wintest
         private void Button2_Click(object sender, EventArgs e)
         {
             //加载图表
-            browser.ExecuteScriptAsync("location.reload()");
-            Thread.Sleep(500);
-            browser.ExecuteScriptAsync("recall()");
+            browser.ExecuteScriptAsync("location.reload()");//js刷新
+            Thread.Sleep(500);//等待0.5s
+            browser.ExecuteScriptAsync("recall()");//调用js获取数据
         }
     }
+
+    [PermissionSet(SecurityAction.Demand, Name = "FullTrust")]
+    [System.Runtime.InteropServices.ComVisibleAttribute(true)]
     class GetJson
     {
         public string ReturnJson

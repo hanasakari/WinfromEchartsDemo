@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("EvolvedGasDetection")]
-[assembly: AssemblyDescription("气体浓度检测报表")]
+[assembly: AssemblyDescription("报表")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Jamci")]
 [assembly: AssemblyProduct("EvolvedGasDetection")]

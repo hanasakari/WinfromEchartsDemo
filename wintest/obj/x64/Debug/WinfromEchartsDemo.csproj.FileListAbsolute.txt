@@ -13,3 +13,21 @@ F:\code\demo echarts\echarts ver\wintest\obj\x64\Debug\wintest.Properties.Resour
 F:\code\demo echarts\echarts ver\wintest\obj\x64\Debug\WinfromEchartsDemo.csproj.GenerateResource.Cache
 F:\code\demo echarts\echarts ver\wintest\obj\x64\Debug\wintest.exe
 F:\code\demo echarts\echarts ver\wintest\obj\x64\Debug\wintest.pdb
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\bin\x64\Debug\wintest.exe.config
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\bin\x64\Debug\wintest.exe
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\bin\x64\Debug\wintest.pdb
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\bin\x64\Debug\CefSharp.Core.dll
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\bin\x64\Debug\CefSharp.dll
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\bin\x64\Debug\CefSharp.WinForms.dll
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\bin\x64\Debug\CefSharp.WinForms.xml
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\bin\x64\Debug\CefSharp.xml
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\bin\x64\Debug\CefSharp.Core.xml
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\obj\x64\Debug\WinfromEchartsDemo.csprojResolveAssemblyReference.cache
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\obj\x64\Debug\wintest.Form1.resources
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\obj\x64\Debug\wintest.Properties.Resources.resources
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\obj\x64\Debug\WinfromEchartsDemo.csproj.GenerateResource.Cache
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\obj\x64\Debug\wintest.exe
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\obj\x64\Debug\wintest.pdb
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\bin\x64\Debug\static\chartPage.html
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\bin\x64\Debug\static\echarts.simple.min.js
+C:\Users\hanas\Desktop\WinfromEchartsDemo-master\wintest\bin\x64\Debug\static\jquery-3.2.1.min.js

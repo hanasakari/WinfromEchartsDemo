@@ -33,7 +33,8 @@
             // 
             // Button2
             // 
-            this.Button2.Location = new System.Drawing.Point(677, 519);
+            this.Button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.Button2.Location = new System.Drawing.Point(797, 529);
             this.Button2.Name = "Button2";
             this.Button2.Size = new System.Drawing.Size(75, 23);
             this.Button2.TabIndex = 0;
